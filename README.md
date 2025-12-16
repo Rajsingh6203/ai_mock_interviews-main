@@ -77,8 +77,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Rajsingh6203/ai_mock_interviews.git
-cd ai_mock_interviews
+git clone https://github.com/Rajsingh6203/ai_mock_interviews-main.git
+cd ai_mock_interviews-main
 ```
 
 **Installation**
